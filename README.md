@@ -26,6 +26,13 @@ This tool visualizes the spatio-temporal attention of MViT by generating Grad-CA
 - Overlaid activation heatmaps as `.gif`
 - Optionally, individual annotated frames can be saved as `.png`
 
+
+## Results......................
+
+![Demo_Pic](https://github.com/Wajahat0/Grad-CAM-Visualization-of-Multi-Scale-Vision-Transformer-MViT-V2-Across-Temporal-Windows/blob/main/gradcam_visuals/mvit_gradcam2.gif)
+![Demo_Pic](https://github.com/Wajahat0/Grad-CAM-Visualization-of-Multi-Scale-Vision-Transformer-MViT-V2-Across-Temporal-Windows/blob/main/gradcam_visuals/mvit_gradcam1.gif)
+![Demo_Pic](https://github.com/Wajahat0/Grad-CAM-Visualization-of-Multi-Scale-Vision-Transformer-MViT-V2-Across-Temporal-Windows/blob/main/gradcam_visuals/mvit_gradcam.gif)
+
 ## 🚀 Usage
 
 ```python
