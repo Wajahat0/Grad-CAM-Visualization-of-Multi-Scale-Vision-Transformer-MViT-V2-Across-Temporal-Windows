@@ -39,7 +39,10 @@ model.eval()
 
 # Input video tensor of shape (1, 3, 64, H, W)
 generate_gradcam_gif(video_tensor, model, save_path="output.gif")
-# Results......................
+
+
+## Results......................
+
 ![Demo_Pic](https://github.com/Wajahat0/Grad-CAM-Visualization-of-Multi-Scale-Vision-Transformer-MViT-V2-Across-Temporal-Windows/blob/main/gradcam_visuals/mvit_gradcam2.gif)
 ![Demo_Pic](https://github.com/Wajahat0/Grad-CAM-Visualization-of-Multi-Scale-Vision-Transformer-MViT-V2-Across-Temporal-Windows/blob/main/gradcam_visuals/mvit_gradcam1.gif)
 ![Demo_Pic](https://github.com/Wajahat0/Grad-CAM-Visualization-of-Multi-Scale-Vision-Transformer-MViT-V2-Across-Temporal-Windows/blob/main/gradcam_visuals/mvit_gradcam.gif)
