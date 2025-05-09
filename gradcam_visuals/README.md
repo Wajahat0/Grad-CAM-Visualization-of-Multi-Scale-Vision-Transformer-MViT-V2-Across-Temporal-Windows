@@ -1,1 +1,1 @@
-![Demo_Pic](https://user-images.githubusercontent.com/79640349/124239509-355c7980-db33-11eb-8cc2-d95496af4357.png)
+![Demo_Pic](https://github.com/Wajahat0/Grad-CAM-Visualization-of-Multi-Scale-Vision-Transformer-MViT-V2-Across-Temporal-Windows/blob/main/gradcam_visuals/mvit_gradcam.gif)
